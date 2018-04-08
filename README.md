@@ -1,0 +1,1 @@
+Some examples how to create common plots using Matplotlib.
